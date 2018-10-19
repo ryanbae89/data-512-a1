@@ -1,6 +1,6 @@
 # data-512-a1
 
-UW DATA512 Fall 2018 assignment 1 repo
+## UW DATA 512 Fall 2018 Assignment 1 Repo
 
 Creator: Ryan Bae
 
